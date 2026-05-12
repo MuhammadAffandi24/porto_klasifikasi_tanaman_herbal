@@ -1,8 +1,9 @@
 streamlit
+--index-url https://download.pytorch.org/whl/cpu
 torch
 torchvision
 pillow
 joblib
-scikit-learn==1.6.1
+scikit-learn
 pandas
 numpy
