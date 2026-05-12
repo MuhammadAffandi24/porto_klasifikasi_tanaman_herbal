@@ -1,9 +1,9 @@
 streamlit
---index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
+pandas
+numpy
 pillow
 joblib
 scikit-learn
-pandas
-numpy
+--index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
