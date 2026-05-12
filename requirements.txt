@@ -4,6 +4,5 @@ numpy
 pillow
 joblib
 scikit-learn
---index-url https://download.pytorch.org/whl/cpu
-torch
-torchvision
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision --extra-index-url https://download.pytorch.org/whl/cpu
